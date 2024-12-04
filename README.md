@@ -8,7 +8,8 @@ Welcome to my DevOps repository! This repository documents my journey through le
 - [Guides and Summaries](#guides-and-summaries-📚)  
   - [MERN Todo App](#mern-todo-app)  
   - [Blogs Summary](#blogs-summary)  
-  - [DevOps Learning Outcomes](#devops-learning-outcomes)  
+  - [DevOps Learning Outcomes](#devops-learning-outcomes)
+  - [DevOps Tooling Guide GitHub Actions CI/CD Pipeline](#devlops-tooling-guide-github-actions-cicd-pipeline)  
 - [Images](#images)  
 - [Contact](#contact)  
 
@@ -39,6 +40,13 @@ A collection of concise summaries of blog posts I’ve written, discussing key i
 A comprehensive guide documenting my learning progress in DevOps, including tools, workflows, and methodologies I've mastered.
 
 👉 Read the [DevOps Learning Outcomes](./DevOps_Learning_Outcomes.md)  
+
+---
+
+### DevOps Tooling Guide GitHub Actions CI/CD Pipeline 
+A comprehensive guide documenting my DevOps Tooling Guide for a MERN Stack Application on GitHub Actions CI/CD Pipeline
+
+👉 Read the [DevOps Tooling Guide GitHub Actions CI/CD Pipeline](./devops_tooling_guide_cicd-pipeline-blog.md)  
 
 ---
 
